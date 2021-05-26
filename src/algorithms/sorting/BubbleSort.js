@@ -1,4 +1,4 @@
-class BubblSort {
+class BubbleSort {
 
   constructor(height, width) {
     this.sortedList = [];
@@ -28,6 +28,4 @@ class BubblSort {
   }
 }
 
-let input = [2, 4, 1, 23, 45, 6, 7, 89];
-let sort = new BubblSort().run(input);
-console.log(sort.result)
+module.exports = BubbleSort;
