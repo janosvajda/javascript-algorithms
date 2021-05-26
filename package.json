@@ -1,0 +1,25 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "JavaScript algorithms, data structures, excercises, tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janosvajda/javascript-algorithms.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "algorithms",
+    "data",
+    "structure"
+  ],
+  "author": "Janos Vajda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janosvajda/javascript-algorithms/issues"
+  },
+  "homepage": "https://github.com/janosvajda/javascript-algorithms#readme"
+}
