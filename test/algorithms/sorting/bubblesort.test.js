@@ -1,4 +1,4 @@
-const BubbleSort = require('./../../../src/algorithms/sorting/BubbleSort');
+const BubbleSort = require('../../../src/algorithms/sorting/bubble/BubbleSort');
 
 test('BubbleSort test', () => {
     let input = [2, 4, 1, 23, 45, 6, 7, 89];
